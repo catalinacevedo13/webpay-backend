@@ -1,0 +1,9 @@
+{
+  "name": "webpay-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "transbank-sdk": "^10.0.0"
+  }
+}
