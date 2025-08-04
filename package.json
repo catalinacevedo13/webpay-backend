@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "commonjs",
   "dependencies": {
-    "transbank-sdk-nodejs": "^1.3.0"
+   "transbank-sdk": "git+https://github.com/TransbankDevelopers/transbank-sdk-nodejs.git"
 
   }
 }
