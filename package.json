@@ -4,6 +4,7 @@
   "main": "index.js",
   "type": "commonjs",
   "dependencies": {
-    "transbank-sdk": "^9.0.0"
+    "transbank-sdk-nodejs": "^1.3.0"
+
   }
 }
